@@ -1,10 +1,3 @@
-/*
-WRITTEN BY THE TECHKHID
-ASUSTEM ROBOTICS-LENOVO TRANSFORME
-ARDUINO LESSON-(Introduction to the Ultrasonic Sensor)
-*/
-
-
 //assigning variables to trig and echo pins
 int trig = 12;
 int echo = 13;
